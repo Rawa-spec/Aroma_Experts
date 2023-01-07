@@ -1,0 +1,35 @@
+body{
+    width:100%;
+        background-color: rgba(12, 222, 237, 0.901);
+    background-image: url("https://www.aromaweb.com/images/photos/essential-oil-recipes.jpg");
+    background-size: cover;
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+footer > p {
+    width: 100%;
+    clear: both;
+    image-rendering: optimizeQuality;
+}
+.social_media {
+    height: 80px;
+	width: 80px;
+	background: rgb(9, 134, 229);
+	display: inline-block;
+}
+.article_home{
+    background-image: url("https://cdn.shopify.com/s/files/1/0637/6416/8946/products/RN573010_10_760x.png?v=1666356324");
+    background-size: cover;
+}
+.article_about{
+    background-image: url("https://magazine.velasresorts.com/wp-content/uploads/2020/04/Aromatherapy.jpg") ;
+    background-size: cover;
+}
+.article_sign {
+    background-image: url("https://www.study365.co.uk/wp-content/uploads/2018/08/Aromatheropy.jpg");
+    background-size: cover;
+}
+.article.contact{
+    background-image: url("https://coursegate.co.uk/wp-content/uploads/2018/08/165-Aromatherapy-and-Essential-Oils-for-Beginners.jpg");
+    background-size: cover;
+}
