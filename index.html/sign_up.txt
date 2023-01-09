@@ -1,6 +1,0 @@
-sign up!
-full name:
-email:
-phone number:
-which body oil would you like?: tick boxes
-Do you have a prefered essential oil: dropdown menu
