@@ -1,6 +1,6 @@
 body{
     width:100%;
-    background-color: rgba(120, 214, 221, 0.901);
+    background-color: rgba(84, 236, 246, 0.901);
     background-size: cover;
     font-style: italic;
     font-family: Georgia, 'Times New Roman', Times, serif;
@@ -61,16 +61,27 @@ Button{
     border: brown;
 }
 .article_about{
+    font-size: large;
+    text-align: justify;
+}
+#about_image{
     background-image: url("https://magazine.velasresorts.com/wp-content/uploads/2020/04/Aromatherapy.jpg") ;
-    background-size: cover;
+    padding: 300px;
+    border: 20px;
+    border-radius: 20px;
+    width: 20%;
+    margin: 0 auto;
+    display: block;
 }
 .article_sign {
     background-image: url("https://www.study365.co.uk/wp-content/uploads/2018/08/Aromatheropy.jpg");
     background-size: cover;
+    padding: 100px;
+    width: 20%;
+    float: left;
 }
-.article.contact{
-    background-image: url("https://coursegate.co.uk/wp-content/uploads/2018/08/165-Aromatherapy-and-Essential-Oils-for-Beginners.jpg");
-    background-size: cover;
+.article_contact{
+  
 }
 article{
     height: 40%;
@@ -79,10 +90,17 @@ article{
 	display: block;
     font-weight: bold;
     text-align: center;
-    background-color: rgba(120, 214, 221, 0.901);
+    background-color: rgba(237, 253, 255, 0.901);
     margin: 0 auto;
     
 }
+input {
+    border-radius: 10px;
+}
+select {
+    width: 150px;
+}
+
 footer > p {
     width: 100%;
     clear: both;
