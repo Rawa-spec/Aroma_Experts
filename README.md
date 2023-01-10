@@ -4,7 +4,7 @@ Welcome to my Website AromaExperts!
 On the about webpage, it explains the different products used during the customer's session with the aromatherapist.
 THey are also encourgaed to pick and choose which oils they would prefer to use.
 
-![Responsice Mockup](assets/responsive.png)
+![Responsice Mockup](assets/responsive5.png)
 
 ## Features
 
@@ -71,8 +71,8 @@ Our contacts show the means of the communication for the customer to get in touc
 - Screen compatibility 
     - I have checked that the screen compatibility using the website, 'AM I RESPONSIVE?' [website](https://ui.dev/amiresponsive)
 - Performance
-    - The site performace was tested on lighthouse.[website](t). 
-    ![Performance on lighthouse](assets/performace2.png)
+    - The site performace was tested on lighthouse.
+    ![Performance on lighthouse](assets/performance5.png)
 
 ## Deployment procedure
 
