@@ -80,6 +80,7 @@ The application is deployed by configuring the github repository to use the main
 
 ## Credits
 
+
 credits:
 I have used multiple images from google images that were referencing articles, mainly from:
 - Aromatherapy associates.
